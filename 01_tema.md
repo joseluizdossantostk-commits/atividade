@@ -24,9 +24,9 @@ Acessibilidade digital para deficientes visuais: uma análise dos recursos de au
 
 - Tema amplo: `Inclusão digital e redução de desigualdades.
 - Objeto estudado: Interfaces de sites e aplicativos móveis.
-- Contexto ou aplicação: Interfaces de sites e aplicativos móveis.
-- Aspecto que será analisado: Interfaces de sites e aplicativos móveis.
-- O que ficará fora do estudo: Interfaces de sites e aplicativos móveis.
+- Contexto ou aplicação: Usabilidade de Interfaces de sites e aplicativos móveis.
+- Aspecto que será analisado: Usabilidade e Interfaces de sites e aplicativos móveis.
+- O que ficará fora do estudo: Outras deficiências e Inclusões Digitais.
 
 ### Justificativa
 
@@ -48,7 +48,7 @@ Tema delimitado e justificativa.
 - [x] O tema é relevante.
 - [x] O tema é viável.
 - [x] O recorte está claro.
-- [ ] O tema foi validado pelo professor.
+- [x] O tema foi validado pelo professor.
 
 ## Contribuições
 
