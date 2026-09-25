@@ -6,26 +6,26 @@ Defina o objetivo geral e os objetivos específicos do artigo.
 
 ## Problema de pesquisa
 
-`[copie a pergunta aprovada]`
+Quais são os principais desafios técnicos e operacionais na implementação de recursos de audiodescrição e sistemas de áudio em sites e aplicativos móveis para deficientes visuais apontados pela literatura científica recente?
 
 ## Objetivo geral
 
-`[Inicie com um verbo no infinitivo, como analisar, comparar, identificar, mapear, discutir ou sintetizar.]`
+Mapear os principais desafios técnicos e operacionais relacionados à implementação de recursos de audiodescrição e sistemas de áudio em sites e aplicativos móveis voltados para deficientes visuais.
 
 ## Objetivos específicos
 
-1. `[preencher]`
-2. `[preencher]`
-3. `[preencher]`
+1. Identificar as principais diretrizes internacionais e nacionais de acessibilidade digital
+2. Categorizar as barreiras técnicas enfrentadas por desenvolvedores e designers na programação e estruturação de interfaces acessíveis.
+3. Analisar o impacto operacional e a eficácia das ferramentas assistivas atuais (como leitores de tela e reprodutores de audiodescrição) na experiência do usuário cego ou com baixa visão.
 4. `[opcional]`
 
 ## Quadro de alinhamento
 
 | Elemento | Texto |
 |---|---|
-| Problema | `[preencher]` |
-| Objetivo geral | `[preencher]` |
-| Resultado esperado | `[O que o artigo deverá apresentar ao final?]` |
+| Problema | Quais são os principais desafios técnicos e operacionais na implementação de recursos de audiodescrição e sistemas de áudio em sites e aplicativos móveis para deficientes visuais apontados pela literatura científica recente? |
+| Objetivo geral | Mapear os principais desafios técnicos e operacionais descritos na literatura científica recente relacionados à implementação de recursos de audiodescrição e sistemas de áudio em sites e aplicativos móveis voltados para deficientes visuais. |
+| Resultado esperado | O artigo apresentará um diagnóstico consolidado da literatura, apontando as falhas mais recorrentes no desenvolvimento de software acessível e fornecendo recomendações teóricas para otimizar os sistemas de áudio em prol da inclusão. |
 
 ## Produto da etapa
 
@@ -33,7 +33,7 @@ Um objetivo geral e de três a quatro objetivos específicos.
 
 ## Checklist
 
-- [ ] Os objetivos começam com verbos no infinitivo.
-- [ ] O objetivo geral responde ao problema.
-- [ ] Os objetivos específicos detalham o objetivo geral.
-- [ ] Os objetivos são compatíveis com uma revisão bibliográfica.
+- [x] Os objetivos começam com verbos no infinitivo.
+- [x] O objetivo geral responde ao problema.
+- [x] Os objetivos específicos detalham o objetivo geral.
+- [x] Os objetivos são compatíveis com uma revisão bibliográfica.
