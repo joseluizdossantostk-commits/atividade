@@ -36,4 +36,7 @@ Pergunta de pesquisa aprovada.
 
 | Integrante | Atividade realizada |
 |---|---|
-| `[nome]` | `[preencher]` |
+| Daniel Pinarelli dos Santos | Delimitação do tema |
+| Luiz Henrique Domingues Dos Santos | Redação da justificativa |
+| Leonan Vieira Alves | Pesquisa prévia |
+| José Luiz Dos Santos | Revisão textual |
