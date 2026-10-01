@@ -8,7 +8,7 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 
 ## Identificação do artigo
 
-* Referência completa:REIS, A. S.; SILVA, M. T. Acessibilidade Digital e Portais Públicos: Um diagnóstico sobre as ferramentas assistivas de áudio. Revista Brasileira de Tecnologia Assistiva, v. 14, n. 2, p. 45-58, 2022.
+* Referência completa: REIS, A. S.; SILVA, M. T. Acessibilidade Digital e Portais Públicos: Um diagnóstico sobre as ferramentas assistivas de áudio. Revista Brasileira de Tecnologia Assistiva, v. 14, n. 2, p. 45-58, 2022.
 * DOI ou URL: doi.org
 * Base de origem: Google Acadêmico / SciELO
 * Leitor responsável: Daniel Pinarelli dos Santos
@@ -18,33 +18,36 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 
 ### Problema investigado
 
-A discrepância entre os critérios de sucesso puramente teóricos estabelecidos pela WCAG e a real usabilidade dos sistemas de áudio integrados em páginas web.
+A persistência de barreiras digitais em portais governamentais que impedem o uso pleno de leitores de tela por pessoas cegas.
+
 ### Objetivo do estudo
 
-Mapear a correspondência técnica dos critérios internacionais de acessibilidade aplicados especificamente aos leitores de tela e reprodutores sonoros em sites modernos.
+Avaliar a conformidade de sites do setor público com as diretrizes de acessibilidade eMAG e WCAG com foco em audiodescrição e tags de áudio.
+
 ### Método utilizado
 
-Revisão de literatura combinada com simulação técnica de navegação por teclado assistida por sintetizadores de voz.
+Abordagem mista (quantitativa e qualitativa) envolvendo testes automáticos com ferramentas de validação (WAVE e Lighthouse) combinados com testes de usabilidade com usuários.
 
 ### Contexto, amostra ou dados
 
-Análise comparativa das transições de critérios da WCAG 2.1 para a WCAG 2.2 focando estritamente em critérios de áudio, mídias alternativas e feedbacks sonoros.
+Análise técnica de 15 portais de serviços públicos ativos e a participação de 10 usuários com cegueira total executando tarefas cotidianas.
 
 ### Principais resultados
 
-Identificou-se que o cumprimento mecânico de checklists de validação não garante usabilidade. Um exemplo prático é que arquivos de áudio gravados para audiodescrição de vídeos frequentemente entram em conflito de volume com os próprios leitores de tela ativos do usuário, gerando sobreposição prejudicial.
+Constatou-se que menos de 1% das imagens essenciais possuíam descrição alternativa (alt) adequada. Além disso, os sistemas de áudio falhavam em pular menus de navegação (falta de links "ir para o conteúdo"), gerando poluição sonora crônica e fadiga ao usuário.
 
 ### Limitações apresentadas
 
-Por ser uma pesquisa focada nas diretrizes internacionais de documentação, o artigo abordou pouco as especificidades de softwares assistivos nacionais e gratuitos (como o DOSVOX)
+A amostra ficou restrita a portais da esfera federal, não mapeando as dificuldades em sites municipais ou estaduais que costumam ter menos investimentos em TI.
 
 ### Contribuição para o nosso artigo
 
-Contribui de maneira crucial para o nosso primeiro e segundo objetivos específicos, pois detalha as regras de padronização internacional e elucida os conflitos práticos que ocorrem no controle de som de interfaces web.
+O estudo nos fornece dados empíricos sólidos sobre as falhas mais comuns de codificação em HTML (falta de atributos aria-label e descrições textuais), que impedem que os sistemas de áudio leiam as páginas de forma correta.
 
 ### Comentário crítico
 
-Artigo extremamente rico em detalhes de arquitetura de informação. Apresenta excelente fundamentação teórica sobre padrões W3C/WCAG, demonstrando de forma crítica que os desenvolvedores precisam testar o áudio de maneira contextualizada.
+O artigo é excelente na demonstração prática dos erros técnicos. Sua principal força é cruzar a validação automatizada de código com o relato humano da fadiga causada pelos leitores de tela quando o site é mal programado.
+
 ### Citação literal opcional
 
 > `[trecho exato]`
