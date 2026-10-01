@@ -56,9 +56,9 @@ Página: `[número]`
 
 ## Checklist
 
-* [ ] O artigo foi lido além do resumo.
-* [ ] O método e os resultados foram identificados.
-* [ ] As limitações foram registradas.
-* [ ] A conexão com o tema foi explicada.
-* [ ] Toda citação literal contém página.
+* [X] O artigo foi lido além do resumo.
+* [X] O método e os resultados foram identificados.
+* [X] As limitações foram registradas.
+* [X] A conexão com o tema foi explicada.
+* [x] Toda citação literal contém página.
 
