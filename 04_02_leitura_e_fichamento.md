@@ -9,10 +9,10 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 ## Identificação do artigo
 
 * Referência completa: MENDES, F. R.; ALMEIDA, L. C. Desenvolvimento Mobile e Inclusão: Barreiras na implementação de audiodescrição em sistemas operacionais móveis. Journal of Mobile Computing and Accessibility, v. 8, n. 1, p. 112-127, 2024.
-* DOI ou URL: `[preencher]`
-* Base de origem: `[preencher]`
-* Leitor responsável: `[preencher]`
-* Data da leitura: `[dd/mm/aaaa]`
+* DOI ou URL: `[https://repositorio.ifba.edu.br/xmlui/handle/123456789/1217]`
+* Base de origem: `[google scholar]`
+* Leitor responsável: `[Jose Luiz dos Santos]`
+* Data da leitura: `[01/10/2026]`
 
 ## Fichamento
 
